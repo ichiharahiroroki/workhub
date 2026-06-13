@@ -12,7 +12,7 @@ WorkHub は、社内のデジタル化プロジェクトに関わるチケット
 | パス | 内容 |
 | --- | --- |
 | [docs/product-concept/README.md](./docs/product-concept/README.md) | WorkHub の目的・思想・核となる考え方 |
-| [docs/product-concept/concepts/](./docs/product-concept/concepts/) | チケット制、管理区分、見積もり方法などの個別コンセプト |
+| [docs/product-concept/concepts/](./docs/product-concept/concepts/) | チケット制、管理区分、リソース管理、見積もり基準などの個別コンセプト |
 | [docs/basic-design/ticket-data-design.md](./docs/basic-design/ticket-data-design.md) | チケットが持つ情報、階層ルール、集約ルールの基本設計 |
 
 ---
